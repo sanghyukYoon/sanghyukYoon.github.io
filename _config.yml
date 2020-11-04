@@ -1,7 +1,7 @@
 # Setup
 title:               Yoon's Blog
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:             '상암동 개발자 윤상혁의 블로그'
+description:         ''
 url:                 https://sanghyukyoon.github.io/
 baseurl:             ''
 paginate:            5
