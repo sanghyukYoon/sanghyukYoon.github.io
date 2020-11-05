@@ -52,7 +52,6 @@ $ rbenv versions
 ```sh
 모든 계정의 루비 버전 변경:
 $ rbenv global [변경하려는 Ruby의 버전]
-
 해당 계정의 루비 버전만 변경:
 $ rbenv local [변경하려는 Ruby의 버전]
 ```
