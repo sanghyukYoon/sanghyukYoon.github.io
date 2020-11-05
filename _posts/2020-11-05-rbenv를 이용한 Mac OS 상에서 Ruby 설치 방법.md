@@ -30,7 +30,6 @@ $ curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-docto
 ### rbenv를 이용한 ruby 설치
 
 1. 아래의 명령어를 사용하면 rbenv를 이용하여 설치 할 수 있는 Ruby의 버전 리스트를 볼 수 있다.
-
 ```sh
 #마지막 안정화 버전 리스트 보기:
 $ rbenv install -l
