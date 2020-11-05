@@ -33,7 +33,6 @@ $ curl -fsSL https://github.com/rbenv/rbenv-installer/raw/master/bin/rbenv-docto
 ```sh
 마지막 안정화 버전 리스트 보기:
 $ rbenv install -l
-
 모든 로컬 버전 리스트 보기:
 $ rbenv install -L
 ```
