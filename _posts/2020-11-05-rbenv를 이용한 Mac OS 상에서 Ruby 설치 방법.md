@@ -59,7 +59,7 @@ $ rbenv local [변경하려는 Ruby의 버전]
 ```sh
 rbenv rehash
 ```
-> 해당 명령어에 대한 자세한 내용은[링크](http://dqn.sakusakutto.jp/2014/02/rbenv_rehash_what_it_does.html) 참조  
+> 해당 명령어에 대한 자세한 내용은 [링크](http://dqn.sakusakutto.jp/2014/02/rbenv_rehash_what_it_does.html) 참조  
 
 ### rbenv를 이용한 Ruby 제거
 
